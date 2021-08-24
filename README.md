@@ -1,55 +1,4 @@
-<div align="center">
-<img src="https://a.uguu.se/rzuxHjbG.jpg" alt="X - Dev Team" width="300" />
-
-# Jangan lupa kasih stars & follow :)
-
->
->
->
-</div>
-<p align="center">
-  <a href="https://github.com/xdevteam404"><img title="Author" src="https://img.shields.io/badge/Author-xdev team-red.svg?style=for-the-badge&logo=github" /></a>
-  <h4 align="center">
-  <a
-  <a href="https://wa.me/62895619083555">SC FREE API KOK GAN >//< </a>
-</h4>
-</p>
-
-## CARA INSTALL DI TERMUX
-```bash
-> termux-setup-storage
-> pkg update && pkg upgrade
-> pkg install git
-> pkg install nodejs
-> pkg install bash
-> pkg install ffmpeg
-> pkg install libwebp
-> git clone https://github.com/xdevteam404/xdev-self
-> cd xdev-self
-> npm i
-> node run.js
-# Untuk Sdcard (File Sudah Di Download)
-> cd /sdcard
-> cp -r xdev-self-main $HOME
-> cd xdev-self-main
-> npm i
-> node run.js
-```
-
-# Baca Nih!!!
-- Change [ownerNumb](https://github.com/xdevteam404/xdev-self/blob/main/xdev.js#71)
-
-- Change [Menu](https://github.com/xdevteam404/xdev-self/blob/main/message/help.js)
-
-- Change [Thumbnail](https://github.com/xdevteam404/xdev-self/blob/main/stik/thumb.jpeg)
-
-- Change [FakeThumbn](https://github.com/xdevteam404/xdev-self/blob/main/stik/fake.jpeg)
-
-# INSTALLL
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
-* [Libwebp](https://developers.google.com/speed/webp/download)
+©♪
 
 # FITUR BOT
 
@@ -232,6 +181,8 @@
 # THANKS TO 🎆
 • [`Baileys`](https://github.com/adiwajshing/Baileys)
 
+• [`xdevteame404`](https://github.com/xdevteam404/xdev-self)
+
 • [`Hexagonz`](https://github.com/Hexagonz)
 
 • [`Arsky`](https://wa.me/62895357313000)
@@ -246,6 +197,4 @@
 
 ‎‎• [`Hafz`](https://wa.me/6282126046864)
 
-# Hargai Kami Dengan Menambahkan Kredit ( Wm ) 
 
-~ Selamat Memakai
