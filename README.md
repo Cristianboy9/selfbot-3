@@ -1,4 +1,29 @@
-©♪
+-----
+## *installation*
+```
+pkg update 
+```
+```
+pkg install git -y
+```
+```
+pkg install nodejs -y
+```
+```
+git clone https://github.com/MrChaby/selfbot-2.git
+```
+```
+cd selfbot-2
+```
+```
+npm install
+```
+```
+node run.js
+```
+-----
+
+# ©♪
 
 # FITUR BOT
 
