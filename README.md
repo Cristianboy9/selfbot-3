@@ -10,10 +10,10 @@ pkg install git -y
 pkg install nodejs -y
 ```
 ```
-git clone https://github.com/MrChaby/selfbot-2.git
+git clone https://github.com/Cristianboy9/selfbot-3
 ```
 ```
-cd selfbot-2
+cd selfbot-3
 ```
 ```
 npm install
